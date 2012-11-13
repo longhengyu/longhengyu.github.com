@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Longest Years]]></title>
-  <link href="http://longhengyu.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | Longest Years]]></title>
+  <link href="http://longhengyu.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://longhengyu.github.com/"/>
   <updated>2012-11-14T02:06:14+09:00</updated>
   <id>http://longhengyu.github.com/</id>
@@ -20,7 +20,7 @@
     <id>http://longhengyu.github.com/blog/2012/11/14/first-one</id>
     <content type="html"><![CDATA[<p>this is the first post.</p>
 
-<p>I&#8217;ll try to manage more.</p>
+<p>I'll try to manage more.</p>
 ]]></content>
   </entry>
   
