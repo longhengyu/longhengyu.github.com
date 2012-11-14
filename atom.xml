@@ -4,7 +4,7 @@
   <title><![CDATA[Longest Years]]></title>
   <link href="http://longhengyu.github.com/atom.xml" rel="self"/>
   <link href="http://longhengyu.github.com/"/>
-  <updated>2012-11-14T20:58:32+09:00</updated>
+  <updated>2012-11-14T21:42:06+09:00</updated>
   <id>http://longhengyu.github.com/</id>
   <author>
     <name><![CDATA[Long Hengyu]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[add a vedio from youtube]]></title>
+    <link href="http://longhengyu.github.com/blog/2012/11/14/add-a-vedio-from-youtube/"/>
+    <updated>2012-11-14T21:34:00+09:00</updated>
+    <id>http://longhengyu.github.com/blog/2012/11/14/add-a-vedio-from-youtube</id>
+    <content type="html"><![CDATA[<p>A nice song.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/o42JOJbe9iI "></iframe></div>
+
+
+<p>Another one I made. 2012广岛-给KAMATA最后的夏天</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/xDt7aWTU2p8 "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[try a piece of groovy code]]></title>
