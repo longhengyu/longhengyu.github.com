@@ -4,7 +4,7 @@
   <title><![CDATA[Longest Years]]></title>
   <link href="http://longhengyu.github.com/atom.xml" rel="self"/>
   <link href="http://longhengyu.github.com/"/>
-  <updated>2012-11-14T02:06:14+09:00</updated>
+  <updated>2012-11-14T20:58:32+09:00</updated>
   <id>http://longhengyu.github.com/</id>
   <author>
     <name><![CDATA[Long Hengyu]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[try a piece of groovy code]]></title>
+    <link href="http://longhengyu.github.com/blog/2012/11/14/try-a-piece-of-groovy-code/"/>
+    <updated>2012-11-14T20:44:00+09:00</updated>
+    <id>http://longhengyu.github.com/blog/2012/11/14/try-a-piece-of-groovy-code</id>
+    <content type="html"><![CDATA[<p>I&#8217;ll past a piece of groovy code in our dream project.</p>
+
+<figure class='code'><figcaption><span>src/example.groovy  </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+</pre></td><td class='code'><pre><code class='groovy'><span class='line'><span class="n">grails</span><span class="o">.</span><span class="na">project</span><span class="o">.</span><span class="na">groupId</span> <span class="o">=</span> <span class="n">com</span><span class="o">.</span><span class="na">pkgplan</span> <span class="c1">// change this to alter the default package name and Maven publishing destination</span>
+</span><span class='line'><span class="n">grails</span><span class="o">.</span><span class="na">mime</span><span class="o">.</span><span class="na">file</span><span class="o">.</span><span class="na">extensions</span> <span class="o">=</span> <span class="kc">true</span> <span class="c1">// enables the parsing of file extensions from URLs into the request format</span>
+</span><span class='line'><span class="n">grails</span><span class="o">.</span><span class="na">mime</span><span class="o">.</span><span class="na">use</span><span class="o">.</span><span class="na">accept</span><span class="o">.</span><span class="na">header</span> <span class="o">=</span> <span class="kc">false</span>
+</span><span class='line'><span class="n">grails</span><span class="o">.</span><span class="na">mime</span><span class="o">.</span><span class="na">types</span> <span class="o">=</span> <span class="o">[</span>
+</span><span class='line'>    <span class="nl">all:</span>           <span class="s1">&#39;*/*&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">atom:</span>          <span class="s1">&#39;application/atom+xml&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">css:</span>           <span class="s1">&#39;text/css&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">csv:</span>           <span class="s1">&#39;text/csv&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">form:</span>          <span class="s1">&#39;application/x-www-form-urlencoded&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">html:</span>          <span class="o">[</span><span class="s1">&#39;text/html&#39;</span><span class="o">,</span><span class="s1">&#39;application/xhtml+xml&#39;</span><span class="o">],</span>
+</span><span class='line'>    <span class="nl">js:</span>            <span class="s1">&#39;text/javascript&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">json:</span>          <span class="o">[</span><span class="s1">&#39;application/json&#39;</span><span class="o">,</span> <span class="s1">&#39;text/json&#39;</span><span class="o">],</span>
+</span><span class='line'>    <span class="nl">multipartForm:</span> <span class="s1">&#39;multipart/form-data&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">rss:</span>           <span class="s1">&#39;application/rss+xml&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">text:</span>          <span class="s1">&#39;text/plain&#39;</span><span class="o">,</span>
+</span><span class='line'>    <span class="nl">xml:</span>           <span class="o">[</span><span class="s1">&#39;text/xml&#39;</span><span class="o">,</span> <span class="s1">&#39;application/xml&#39;</span><span class="o">]</span>
+</span><span class='line'><span class="o">]</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First One]]></title>
